@@ -1,2 +1,4 @@
-# Calculator-Using-Visual-Basic-VB-
-Fully functional scientific Calculator developed with Visual Basic (VB). Features: Scientific Calculator, Stop watch, Result Calculator, Graphics, Custom Design &amp; Colors
+<h2># Calculator-Using-Visual-Basic-VB-</h2><br/>
+ It contains source code and also the Application ".exe file"
+
+<strong>Note: You should read the LICENSE.txt before using this project.</strong>
